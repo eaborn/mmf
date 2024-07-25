@@ -1,5 +1,5 @@
 torch==2.2.0
-torchaudio==0.17.0
+torchaudio==2.2.0
 torchvision==0.17.0
 torchtext==0.17.0
 numpy>=1.16.6
